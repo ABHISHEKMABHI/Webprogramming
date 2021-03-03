@@ -1,0 +1,11 @@
+button 
+{ 
+ background:whitesmoke;  border:none; 
+ padding: 10pv; 
+ color: blue 
+} 
+button:hover 
+{ 
+ background:cyan;  border:none; 
+ padding: 10pv; 
+ color:rgb(238, 17, 1); }
